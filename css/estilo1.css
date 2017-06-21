@@ -1,0 +1,23 @@
+#especial{
+	color: rgba(0,0,200,1.0);
+	background-color:#778922; 
+}
+
+.verde{
+	color: #00FF00;
+}
+h1{
+	color: #FF0000;
+	border-style: dashed;
+	border-width: 5px;
+
+	border-left-color:blue; 
+	border-right-color:red;
+	border-top-color:green; 
+	border-bottom:none;  
+}
+body{
+	background:url(imagenescss/cocina.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
